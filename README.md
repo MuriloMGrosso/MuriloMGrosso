@@ -1,3 +1,3 @@
-### BEM VINDO 🦆
+### WELCOME 🦆
 
-~~Existem 3 patos nesta página~~
+~~There're 3 ducks on this page~~
